@@ -1,0 +1,32 @@
+person:
+  userName: 波哥
+  address: 湖南长沙
+  age: 18
+  birth: 2023/07/24 14:12:12
+  boss: true
+  map:
+    k1: v1
+    k2: v2
+    k3: v3
+  hobbys:
+    - 篮球
+    - 足球
+    - 羽毛球
+  dept:
+    deptId: 1
+    deptName: 行政部
+  all-depts:
+    k1:
+      deptId: 1
+      deptName: 行政部
+    k2:
+      deptId: 2
+      deptName: 研发部
+    k3:
+      deptId: 3
+      deptName: 销售部
+  #dept: {departId:111,departName:销售部}
+  #  map: {k1:v1,k2:v2,k3:v3}
+  #  hobbys: [篮球，足球，羽毛球]
+
+
